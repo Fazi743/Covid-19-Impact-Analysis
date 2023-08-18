@@ -13,4 +13,4 @@ We have utilized diverse data sources, including official health organizations, 
  
 **Note:** If you have any questions, suggestions, or feedback, please [open an issue](https://github.com/Fazi743/COVID-19-Impact-Analysis/issues) on this repository.
 
-**Disclaimer:** The COVID-19 Impact Analysis project and its contributors are not responsible for any interpretations or decisions based on the analysis results provided in this repository.
+**Disclaimer:** The COVID-19 Impact Analysis project and its contributors are not responsible for any interpretations or decisions based on the analysis results provided in this repository and i have just work on it for practic purpose, this is not my personal project or my creation.
